@@ -116,10 +116,15 @@ figure img{
 
 footer{
     max-width: 100%;
+
+    align-items: center;
+    justify-content: center;
 }
+
 
 footer img{
     width: 50px;
+
 }
 
 footer ul{
@@ -127,10 +132,18 @@ footer ul{
    display: flex;
    align-items: center;
    justify-content: center;
+   margin: 0px;
 }
 
 footer ul a {
-    margin: 15px 10px;
+    margin: 0px 10px;
+
+}
+
+h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
